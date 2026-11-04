@@ -99,6 +99,7 @@ body {
 /* данное свойство необходимо для того, чтобы в браузерах
 ** Chrome и Safari можно было стилизовать инпуты */
 input[type="search"] {
+	appearance: none;
 	-webkit-appearance: none;
 }
 
